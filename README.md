@@ -5,7 +5,7 @@ The **completed** Unity projects for each example can be found in their own repo
 
 1. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-01-image
 2. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-02-buttonsToMoveBetweenScenes
-3. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-04-panelDepths
+3. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-03-buttonAnimation
 4. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-04-panelDepths
 5. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-05-radar
 6. https://github.com/dr-matt-smith/unity-cookbook-2018-ch02-06-fungusDialog
